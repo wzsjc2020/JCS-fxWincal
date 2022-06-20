@@ -1,0 +1,6 @@
+java.lang.IllegalStateException: Platform.exit has been called
+	at com.sun.javafx.application.PlatformImpl.startup(PlatformImpl.java:145)
+	at com.sun.javafx.application.LauncherImpl.startToolkit(LauncherImpl.java:675)
+	at com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:695)
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication$1(LauncherImpl.java:182)
+	at java.lang.Thread.run(Unknown Source)
