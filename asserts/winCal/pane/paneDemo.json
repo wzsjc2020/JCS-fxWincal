@@ -1,0 +1,8 @@
+{
+  "pane_id": "paneDemo",
+  "pane_info": {
+    "index": 1,
+    "icon_path": "icon/divide.png",
+    "tag": "PaneDemo"
+  }
+}
